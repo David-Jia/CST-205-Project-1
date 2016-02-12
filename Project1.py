@@ -1,5 +1,6 @@
 #David Jia
 #Takes 9 images and then applies a median filter to the image
+#https://github.com/David-Jia/CST-205-Project-1
 list = [] # creates an empty list
 for i in range(0,9): # allows the user to choose 9 images to fill the list
   file = pickAFile()
